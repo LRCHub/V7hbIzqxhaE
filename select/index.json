@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Bangarang",
+  "base_artist": "Skrillex",
+  "createdAt": "2026-02-17T13:33:35.697029Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bangarang (feat. Sirah)",
+      "artist": "Skrillex feat. Sirah",
+      "has_synced": true,
+      "path": "select/01_Bangarang_(feat._Sirah)_Skrillex_feat._Sirah.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bangarang (feat. Sirah)",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/02_Bangarang_(feat._Sirah)_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bangarang (feat. Sirah)",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/03_Bangarang_(feat._Sirah)_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bangarang (feat. Sirah)",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/04_Bangarang_(feat._Sirah)_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bangarang",
+      "artist": "Skrillex feat. Sirah",
+      "has_synced": true,
+      "path": "select/05_Bangarang_Skrillex_feat._Sirah.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bangarang (feat. Sirah)",
+      "artist": "Skrillex/Sirah",
+      "has_synced": true,
+      "path": "select/06_Bangarang_(feat._Sirah)_Skrillex_Sirah.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bangarang",
+      "artist": "Skrillex feat. Sirah",
+      "has_synced": true,
+      "path": "select/07_Bangarang_Skrillex_feat._Sirah.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bangarang (Feat. Sirah)",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/08_Bangarang_(Feat._Sirah)_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bangarang (Feat. Sirah) (EP Version - Explicit)",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/09_Bangarang_(Feat._Sirah)_(EP_Version_-_Explicit)_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bangarang (Feat. Sirah)",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/10_Bangarang_(Feat._Sirah)_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bangarang (feat. Sirah)",
+      "artist": "Skrillex, Sirah",
+      "has_synced": true,
+      "path": "select/11_Bangarang_(feat._Sirah)_Skrillex,_Sirah.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bangarang",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/12_Bangarang_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bangarang",
+      "artist": "L'Entourloop feat. Skarra Mucci",
+      "has_synced": true,
+      "path": "select/13_Bangarang_L'Entourloop_feat._Skarra_Mucci.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bangarang",
+      "artist": "Skrillex, Sirah",
+      "has_synced": true,
+      "path": "select/14_Bangarang_Skrillex,_Sirah.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bangarang",
+      "artist": "Smash Into Pieces",
+      "has_synced": false,
+      "path": "select/15_Bangarang_Smash_Into_Pieces.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bangarang",
+      "artist": "Smash Into Pieces",
+      "has_synced": true,
+      "path": "select/16_Bangarang_Smash_Into_Pieces.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bangarang",
+      "artist": "Skrillex feat. Sirah",
+      "has_synced": true,
+      "path": "select/17_Bangarang_Skrillex_feat._Sirah.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bangarang",
+      "artist": "Skrillex",
+      "has_synced": false,
+      "path": "select/pl_01_Bangarang_Skrillex.txt"
+    }
+  ]
+}
